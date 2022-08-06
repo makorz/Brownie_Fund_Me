@@ -3,7 +3,7 @@ from web3 import Web3
 
 DECIMALS = 8
 STARTING_PRICE = 200000000000
-FORKED_ENVIRONMENTS = ["mainet-fork"]
+FORKED_ENVIRONMENTS = ["mainnet-fork"]
 LOCAL_BLOCKCHAIN_ENVIRONMENTS = ["development", "ganache-local"]
 
 
